@@ -7,7 +7,7 @@ This project is a practice case study focusing on descriptive statistics. It exp
 The project utilizes the following:
 
 *   **Data**: The dataset used for this case study is not specified in the current context. You should update the README to specify which dataset you are using.
-*   **Tools**: [Descriptive_statistics_Case_Study.ipynb](Descriptive_statistics_Case_Study.ipynb) - A Jupyter Notebook containing the code and analysis.
+*   **Tools**: A Jupyter Notebook containing the code and analysis.
 
 ## Key Observations
 
